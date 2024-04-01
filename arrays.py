@@ -1,5 +1,4 @@
 from manim import *
-from hima import varshini
 
 def arr_obj(array, blank = False, scale = 1, square_size = 0.5, color = None, fill = None, text_color = None, mode = "manimce"):
     if mode == "manimce":
